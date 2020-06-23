@@ -14,5 +14,5 @@ Your users should be able to:
 Your primary task is to implement the makeGrid() function, that dynamically creates a grid that the user can interact with.
 
 **How to launch:**<br>
-1.Download, extract and open the index.html in the browser (or)
-2.Link to Live Version [here] (file:///C:/Users/Lorenzo/Desktop/Udacity-Learn%20to%20Code/PixelArtMaker-Project/index.html)
+-Download, extract and open the index.html in the browser
+
