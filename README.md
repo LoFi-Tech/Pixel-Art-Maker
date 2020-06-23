@@ -1,8 +1,8 @@
 # PixelArtMaker
+**Description:** <br>
 Project for Udacity's Intro to Programming Nanodegree
 
-Project Instructions:
-
+**Project given Instructions:**<br>
 You'll be given starter code, including HTML and CSS, to build the application. You'll write JavaScript code that lets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
 Your users should be able to:
@@ -12,3 +12,7 @@ Your users should be able to:
 3.Click a cell in the grid to fill that cell with the chosen color.<br>
 
 Your primary task is to implement the makeGrid() function, that dynamically creates a grid that the user can interact with.
+
+**How to launch:**<br>
+1.Download, extract and open the index.html in the browser (or)
+2.Link to Live Version [here] (file:///C:/Users/Lorenzo/Desktop/Udacity-Learn%20to%20Code/PixelArtMaker-Project/index.html)
