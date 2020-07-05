@@ -3,7 +3,7 @@
 const gridForm = document.getElementById("sizePicker");
 
 // Selects Table
-const newCanvas = document.getElementById("pixelCanvas");
+let newCanvas = document.getElementById("pixelCanvas");
 
 // Selects color, height and width element
 const gridHeight = document.getElementById("inputHeight");
